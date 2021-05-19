@@ -1,0 +1,218 @@
+﻿.ax_default {
+  font-family:'ArialMT', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  color:#333333;
+  text-align:center;
+  line-height:normal;
+}
+.image {
+}
+.heading_1 {
+  font-family:'Lato';
+  font-weight:bold;
+  font-style:normal;
+  font-size:38px;
+  color:#333333;
+  text-align:left;
+  line-height:57px;
+}
+.heading_2 {
+  font-family:'Lato';
+  font-weight:bold;
+  font-style:normal;
+  font-size:34px;
+  text-align:left;
+  line-height:51px;
+}
+.heading_3 {
+  font-family:'Lato Bold', 'Lato Regular', 'Lato';
+  font-weight:700;
+  font-style:normal;
+  font-size:24px;
+  text-align:left;
+  line-height:36px;
+}
+.label {
+  font-size:14px;
+  text-align:left;
+}
+.paragraph {
+  font-family:'Noto Sans';
+  font-weight:400;
+  font-style:normal;
+  font-size:20px;
+  text-align:left;
+  line-height:30px;
+}
+.text_link {
+  font-family:'Noto Sans';
+  font-weight:400;
+  font-style:normal;
+  font-size:20px;
+  color:#2B4380;
+}
+.text_link_mouse_over {
+  color:#0535D2;
+}
+.line {
+}
+.text_field {
+  color:#000000;
+  text-align:left;
+}
+.text_area {
+  color:#000000;
+  text-align:left;
+}
+.droplist {
+  color:#000000;
+  text-align:left;
+}
+.checkbox {
+  text-align:left;
+}
+.radio_button {
+  text-align:left;
+}
+.flow_shape {
+}
+.heading_31 {
+  font-family:'Lato';
+  font-weight:bold;
+  font-style:normal;
+  font-size:24px;
+  text-align:left;
+}
+.heading_4 {
+  font-family:'Lato';
+  font-weight:bold;
+  font-style:normal;
+  font-size:22px;
+  text-align:left;
+}
+.heading_5 {
+  font-family:'Lato';
+  font-weight:bold;
+  font-style:normal;
+  font-size:20px;
+  text-align:left;
+}
+.paragraph1 {
+  font-family:'Noto Sans';
+  font-weight:400;
+  font-style:normal;
+  font-size:20px;
+  text-align:left;
+  line-height:normal;
+}
+.shape {
+  font-family:'ArialMT', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:10px;
+  color:#FFFFFF;
+  text-align:center;
+  line-height:normal;
+}
+.box_1 {
+}
+.box_2 {
+}
+.ellipse {
+}
+.placeholder {
+}
+.button {
+}
+.icon {
+}
+.raised_button {
+  font-family:'ArialMT', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:16px;
+  color:#FFFFFF;
+}
+.primary_button {
+  font-family:'Noto Sans';
+  font-weight:400;
+  font-style:normal;
+  font-size:18px;
+  color:#FFFFFF;
+}
+.secondary_button {
+  font-family:'Noto Sans';
+  font-weight:400;
+  font-style:normal;
+  font-size:18px;
+  color:#26374A;
+}
+.view_panel {
+}
+.side_panel {
+  color:#999999;
+}
+.box_3 {
+}
+.sidenav_item {
+  font-size:16px;
+  color:#2B4380;
+  text-align:left;
+}
+.input_field {
+  font-family:'ArialMT', 'Arial';
+  font-weight:normal;
+  font-style:normal;
+  font-size:14px;
+  color:#2D373E;
+  text-align:left;
+}
+.label1 {
+  font-family:'Arial Bold', 'Arial';
+  font-weight:700;
+  font-style:normal;
+  font-size:14px;
+  text-align:left;
+  line-height:24px;
+}
+.border_grey {
+}
+.calendar {
+  font-family:'ArialMT', 'Arial';
+  font-weight:normal;
+  font-style:normal;
+  font-size:14px;
+  color:#2D373E;
+  text-align:center;
+}
+.calender_mouseover {
+}
+.calendar_selected {
+  color:#FFFFFF;
+}
+.solid_white {
+}
+.heading_41 {
+  font-family:'ArialMT', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  font-size:14px;
+  text-align:left;
+}
+.heading_51 {
+  font-family:'ArialMT', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  text-align:left;
+}
+.heading_6 {
+  font-family:'ArialMT', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  font-size:10px;
+  text-align:left;
+}
+.text_link_mouse_down {
+}
